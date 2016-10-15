@@ -9,5 +9,5 @@ Used technologis:
 
 Demo/example url:
 http://laravel-materialize.w3bd.com/
-username: robinsabbir@gmail.com
+username: robinsabbir@gmail.com 
 password: robinsabbir@gmail.com
