@@ -42,9 +42,9 @@ password: robinsabbir@gmail.com
     
 ## Screenshots
 
-![Login Page](https://res.cloudinary.com/robinsabbir/image/upload/v1497258509/github/login_page.png)
+![login_page](https://res.cloudinary.com/robinsabbir/image/upload/v1497258509/github/login_page.png)
 
-![Dash Page](https://res.cloudinary.com/robinsabbir/image/upload/v1497258509/github/inner_page.png)
+![dashboard_page](https://res.cloudinary.com/robinsabbir/image/upload/v1497258509/github/inner_page.png)
 
 
 
